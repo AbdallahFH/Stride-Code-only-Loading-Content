@@ -1,0 +1,7 @@
+!Texture
+Id: 9029eb89-bd4b-4b92-ab44-f1f8d2eae4f5
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file C:/Users/Abdallah/Documents/StrideLoadingModel/Textuer.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
