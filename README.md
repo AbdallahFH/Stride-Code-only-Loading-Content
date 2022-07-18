@@ -1,3 +1,5 @@
+![Stride](https://media.githubusercontent.com/media/stride3d/stride/master/sources/data/images/Logo/stride-logo-readme.png)
+
 # Stride Code-only Loading Content
 this is simple example for stride code-only to Load content (Models,Textuer,etc) form code.
 
