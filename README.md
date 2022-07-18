@@ -10,7 +10,7 @@ after you placed the assets in right place create new file in you project naming
 
 
 *********************************************************************
-!Package\m
+!Package\n
 SerializedVersion: {Assets: 3.1.0.0}
 Meta:
     Name: #your Porject name#
