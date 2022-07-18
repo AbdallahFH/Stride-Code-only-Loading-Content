@@ -40,7 +40,7 @@ RootAssets:
     -   361c41c9-6931-46a6-bd3e-724d781e6e5f:StrideStrike
 ```
 - do this for every asset in your project.
-- for the asset file it self set the correct file path like this:
+- for the asset file itself set the correct file path like this:
 ```javascript
 !Model
 Id: 361c41c9-6931-46a6-bd3e-724d781e6e5f
