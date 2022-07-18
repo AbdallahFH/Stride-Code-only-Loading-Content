@@ -32,11 +32,11 @@ RootAssets:
     -   361c41c9-6931-46a6-bd3e-724d781e6e5f:StrideStrike
     -   25faf428-dfd4-4bbb-b048-e4a9a58287c1:Sword
     -   9029eb89-bd4b-4b92-ab44-f1f8d2eae4f5:Textuer
-
+```
 *********************************************************************
     
 
-
+```c#
 using Stride.Core.Mathematics;
 using Stride.Engine;
 using Stride.GameDefaults.Extensions;
@@ -55,3 +55,4 @@ using (var game = new Game())
         entity.Scene = rootScene;
     }
 }
+```
