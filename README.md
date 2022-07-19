@@ -4,7 +4,7 @@
 this is simple example for stride code-only to Load content (Models,Textuer,etc) form code.
 
 
-first you need to follow this tutrial https://github.com/VaclavElias/stride-code-only for setup Stride Code only.
+first you need to follow this tutorial https://github.com/VaclavElias/stride-code-only for setup Stride Code only.
 after that you need to get a assets imported with stride editor (stupid but it's just for now maybe in future I will create something for importing usuing code or Vaclav Elias will do).
 there is assets for sword model +(textur,material) in StrideLoadingModel>Assets you can use it.
 
